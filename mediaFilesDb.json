@@ -1,0 +1,161 @@
+[
+  {
+    "id": 1,
+    "name": "Goldn",
+    "mediaPath": "http://localhost:8080/assets/mediaFiles/goldn-116392.mp3",
+    "type": "mp3",
+    "comment": "here are some words",
+    "isLiked": true,
+    "categories": [1, 2],
+    "image": "http://localhost:8080/assets/Images/golden-4720210_1920.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Milk Shake",
+    "mediaPath": "http://localhost:8080/assets/mediaFiles/guitar-electro-sport-trailer-115571.mp3",
+    "type": "mp3",
+    "comment": "Music by Coma-Media from Pixabay",
+    "isLiked": false,
+    "categories": "Pop",
+    "image": "http://localhost:8080/assets/Images/strawberry-3304967_1920.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Guitar Electro Sport Trailer",
+    "mediaPath": "public/assets/mediaFiles/guitar-electro-sport-trailer-115571.mp3",
+    "type": "mp3",
+    "comment": "Music by Gvidon from Pixabay",
+    "isLiked": true,
+    "categories": "Electronic",
+    "image": "http://localhost:8080/assets/"
+  },
+  {
+    "id": 4,
+    "name": "Inspiring Cinematic Ambient",
+    "mediaPath": "public/assets/mediaFiles/inspiring-cinematic-ambient-116199.mp3",
+    "type": "mp3",
+    "comment": "Music by Lexin_Music from Pixabay",
+    "isLiked": false,
+    "categories": "Classic",
+    "image": "http://localhost:8080/assets/"
+  },
+  {
+    "id": 5,
+    "name": "Smooth Waters",
+    "mediaPath": "public/assets/mediaFiles/smooth-waters-115977.mp3",
+    "type": "mp3",
+    "comment": "Music by SergePavkinMusic from Pixabay",
+    "isLiked": true,
+    "categories": "Jazz",
+    "image": "http://localhost:8080/assets/"
+  },
+  { "id": 15, "name": "fabu song" },
+  { "id": 16, "name": "fabu song" },
+  { "id": 22, "name": "fabu song" },
+  { "id": 23, "name": "fab song" },
+  { "id": 24, "name": "fab song" },
+  { "id": 25, "name": "fab song" },
+  { "id": 26, "name": "fab song" },
+  {
+    "id": 27,
+    "name": "fab song",
+    "mediaPath": "./public/assets/mediafiles/mediaFilefab song27.mp3",
+    "type": ".mp3",
+    "media": "http://localhost:8080/assets/mediafiles/mediaFilefab song27.mp3"
+  },
+  {
+    "id": 28,
+    "name": "fab song",
+    "mediaPath": "./public/assets/mediafiles/mediaFile28.mp3",
+    "type": ".mp3",
+    "media": "http://localhost:8080/assets/mediafiles/mediaFile28.mp3"
+  },
+  {
+    "id": 29,
+    "name": "fab song",
+    "mediaPath": "./public/assets/mediafiles/mediaFile29.mp3",
+    "type": ".mp3",
+    "media": "http://localhost:8080/assets/mediafiles/mediaFile29.mp3"
+  },
+  {
+    "id": 30,
+    "name": "fab song",
+    "mediaPath": "./public/assets/mediafiles/mediaFile30.mp3",
+    "type": ".mp3",
+    "media": "http://localhost:8080/assets/mediafiles/mediaFile30.mp3"
+  },
+  {
+    "id": 31,
+    "name": "fab song",
+    "mediaPath": "./public/assets/mediafiles/mediaFile31.mp3",
+    "type": ".mp3",
+    "media": "http://localhost:8080/assets/mediafiles/mediaFile31.mp3"
+  },
+  {
+    "id": 32,
+    "name": "fab song",
+    "mediaPath": "./public/assets/mediafiles/mediaFile32.mp3",
+    "type": ".mp3",
+    "media": "http://localhost:8080/assets/mediafiles/mediaFile32.mp3"
+  },
+  {
+    "id": 35,
+    "name": "fun song",
+    "comment": "great tunes",
+    "isLiked": "true",
+    "categories": "house",
+    "media": "http://localhost:8080/assets/mediafiles/mediaFile35.mp3",
+    "mediaPath": "./public/assets/mediafiles/mediaFile35.mp3",
+    "type": ".mp3",
+    "image": "http://localhost:8080/assets/images/image35.jpg",
+    "imagePath": "./public/assets/images/image35.jpg"
+  },
+  {
+    "id": 36,
+    "name": "fab songs",
+    "comment": "great tunes",
+    "isLiked": "true",
+    "categories": "house",
+    "media": "http://localhost:8080/assets/mediafiles/mediaFile36.mp3",
+    "mediaPath": "./public/assets/mediafiles/mediaFile36.mp3",
+    "type": ".mp3",
+    "image": "http://localhost:8080/assets/images/image36.jpg",
+    "imagePath": "./public/assets/images/image36.jpg"
+  },
+  {
+    "id": 37,
+    "name": "fab songs",
+    "comment": "great tunes",
+    "isLiked": "true",
+    "categories": "house",
+    "media": "http://localhost:8080/assets/mediafiles/mediaFile37.mp3",
+    "mediaPath": "./public/assets/mediafiles/mediaFile37.mp3",
+    "type": ".mp3",
+    "image": "http://localhost:8080/assets/images/image37.jpg",
+    "imagePath": "./public/assets/images/image37.jpg"
+  },
+  {
+    "id": 39,
+    "name": "fab songs",
+    "comment": "great tunes",
+    "isLiked": "true",
+    "categories": "house",
+    "media": "http://localhost:8080/assets/mediafiles/mediaFile39.mp3",
+    "mediaPath": "./public/assets/mediafiles/mediaFile39.mp3",
+    "type": ".mp3",
+    "image": "http://localhost:8080/assets/images/image39.jpg",
+    "imagePath": "./public/assets/images/image39.jpg"
+  },
+  {
+    "id": 40,
+    "name": "fab songs",
+    "comment": "great tunes",
+    "isLiked": "true",
+    "categories": "house",
+    "media": "http://localhost:8080/assets/mediafiles/mediaFile40.mp3",
+    "mediaPath": "./public/assets/mediafiles/mediaFile40.mp3",
+    "type": ".mp3",
+    "image": "http://localhost:8080/assets/images/image40.jpg",
+    "imagePath": "./public/assets/images/image40.jpg"
+  }
+]
